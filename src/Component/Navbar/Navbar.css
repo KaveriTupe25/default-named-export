@@ -1,0 +1,16 @@
+.NavStyle {
+    background-color: black;
+    color: aliceblue;
+    padding: 5px;
+}
+
+.Nav-brand {
+    display: inline-block;
+    margin-right: 100px;
+}
+
+.Nav-menu {
+    display: inline-block;
+    margin: 0 10px;
+    font-size: 25px;
+}
